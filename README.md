@@ -6,7 +6,6 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=Avinash-Singh-13&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%">
 </a>
 
-<!-- New Image Here (replace the previous one) -->
 <a href="https://github.com/Avinash-Singh-13">
     <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif">
 </a>
@@ -117,7 +116,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Avinash-Singh-13&show_icons=true&theme=radical" alt="Avinash's GitHub Stats" width="49.5%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Avinash-Singh-13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Avinash-Singh-13&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="49.5%"/>
 </p>
 
 ---
@@ -136,4 +135,3 @@
   <a href="https://www.linkedin.com/in/avinash-singh-6b2a362a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:singhavinash7860@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
