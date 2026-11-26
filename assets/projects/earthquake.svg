@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230" role="img" aria-label="Earthquake Visualizer: Interactive world map of real-time earthquake activity from the USGS API, with magnitude, location and time details for every event.">
+  <title>Earthquake Visualizer: Interactive world map of real-time earthquake activity from the USGS API, with magnitude, location and time details for every event.</title>
+  <defs>
+    <linearGradient id="pearthquakebg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#0d0a24"/>
+    </linearGradient>
+    <filter id="pearthquakeblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+    <linearGradient id="pearthquakeglass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="pearthquakeedge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="pearthquaketext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#93c5fd"/><stop offset="0.5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <clipPath id="pearthquakeclip"><rect width="590" height="230" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#pearthquakeclip)">
+    <rect width="590" height="230" fill="url(#pearthquakebg)"/>
+    <g filter="url(#pearthquakeblur)" opacity="0.85">
+      
+      <circle cx="90" cy="60" r="110" fill="#ea580c">
+        <animate attributeName="cx" values="90;120;90" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="60;80;60" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="510" cy="190" r="120" fill="#db2777">
+        <animate attributeName="cx" values="510;480;510" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="190;170;190" dur="15s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+  
+    <rect x="8" y="8" width="574" height="214" rx="20" fill="url(#pearthquakeglass)"/>
+    <rect x="8.75" y="8.75" width="572.5" height="212.5" rx="20" fill="none" stroke="url(#pearthquakeedge)" stroke-width="1.5"/>
+    <rect x="24" y="9" width="542" height="1" fill="#ffffff" opacity="0.35"/>
+  <text x="32" y="58" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26">🌎</text>
+  <text x="72" y="56" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f8fafc">Earthquake Visualizer</text>
+  <g transform="translate(486,36)"><rect width="74" height="26" rx="13" fill="#22c55e" fill-opacity="0.18" stroke="#4ade80" stroke-opacity="0.6"/>
+    <circle cx="16" cy="13" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="45" y="18" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#86efac">LIVE</text></g>
+  <text x="32" y="96" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">Interactive world map of real-time earthquake activity from the USGS</text><text x="32" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">API, with magnitude, location and time details for every event.</text>
+  <g transform="translate(32,180)">
+      <rect width="61" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="30.5" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">React</text>
+    </g><g transform="translate(100,180)">
+      <rect width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="38" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">Leaflet</text>
+    </g><g transform="translate(183,180)">
+      <rect width="84" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="42" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">Tailwind</text>
+    </g><g transform="translate(274,180)">
+      <rect width="84" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="42" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">USGS API</text>
+    </g>
+</svg>

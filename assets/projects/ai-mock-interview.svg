@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="230" viewBox="0 0 590 230" role="img" aria-label="AI Mock Interview Platform: Benchmark evaluation of LLM-built interview platforms: collaborative coding, AI-generated questions, WebRTC calls and live sync, with a graded comparative analysis.">
+  <title>AI Mock Interview Platform: Benchmark evaluation of LLM-built interview platforms: collaborative coding, AI-generated questions, WebRTC calls and live sync, with a graded comparative analysis.</title>
+  <defs>
+    <linearGradient id="paimockinterviewbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#0d0a24"/>
+    </linearGradient>
+    <filter id="paimockinterviewblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="38"/></filter>
+    <linearGradient id="paimockinterviewglass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="paimockinterviewedge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="paimockinterviewtext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#93c5fd"/><stop offset="0.5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <clipPath id="paimockinterviewclip"><rect width="590" height="230" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#paimockinterviewclip)">
+    <rect width="590" height="230" fill="url(#paimockinterviewbg)"/>
+    <g filter="url(#paimockinterviewblur)" opacity="0.85">
+      
+      <circle cx="90" cy="60" r="110" fill="#db2777">
+        <animate attributeName="cx" values="90;120;90" dur="13s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="60;80;60" dur="13s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="510" cy="190" r="120" fill="#7c3aed">
+        <animate attributeName="cx" values="510;480;510" dur="15s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="190;170;190" dur="15s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+  
+    <rect x="8" y="8" width="574" height="214" rx="20" fill="url(#paimockinterviewglass)"/>
+    <rect x="8.75" y="8.75" width="572.5" height="212.5" rx="20" fill="none" stroke="url(#paimockinterviewedge)" stroke-width="1.5"/>
+    <rect x="24" y="9" width="542" height="1" fill="#ffffff" opacity="0.35"/>
+  <text x="32" y="58" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26">🎙️</text>
+  <text x="72" y="56" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#f8fafc">AI Mock Interview Platform</text>
+  
+  <text x="32" y="96" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">Benchmark evaluation of LLM-built interview platforms: collaborative</text><text x="32" y="118" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">coding, AI-generated questions, WebRTC calls and live sync, with a</text><text x="32" y="140" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14.5" fill="#cbd5e1">graded comparative analysis.</text>
+  <g transform="translate(32,180)">
+      <rect width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="38" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">Next.js</text>
+    </g><g transform="translate(115,180)">
+      <rect width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="38" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">Node.js</text>
+    </g><g transform="translate(198,180)">
+      <rect width="76" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="38" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">MongoDB</text>
+    </g><g transform="translate(281,180)">
+      <rect width="91" height="26" rx="13" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
+      <text x="45.5" y="17.32" text-anchor="middle" font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="12" fill="#ffffff" fill-opacity="0.95">Socket.io</text>
+    </g>
+</svg>

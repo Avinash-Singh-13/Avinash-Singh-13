@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-label="Tech stack">
+  <title>Tech stack</title>
+  <defs>
+    <linearGradient id="shskillssvgbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1a"/><stop offset="1" stop-color="#0d0a24"/>
+    </linearGradient>
+    <filter id="shskillssvgblur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="14"/></filter>
+    <linearGradient id="shskillssvgglass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="shskillssvgedge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.30"/>
+    </linearGradient>
+    <linearGradient id="shskillssvgtext" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#93c5fd"/><stop offset="0.5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#f9a8d4"/>
+    </linearGradient>
+    <clipPath id="shskillssvgclip"><rect width="1200" height="86" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#shskillssvgclip)">
+    <rect width="1200" height="86" fill="url(#shskillssvgbg)"/>
+    <g filter="url(#shskillssvgblur)" opacity="0.85">
+      
+      <circle cx="120" cy="40" r="120" fill="#2563eb">
+        <animate attributeName="cx" values="120;160;120" dur="12s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="40;50;40" dur="12s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1080" cy="50" r="130" fill="#7c3aed">
+        <animate attributeName="cx" values="1080;1040;1080" dur="14s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="50;40;50" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="640" cy="90" r="90" fill="#0d9488">
+        <animate attributeName="cx" values="640;670;640" dur="16s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="90;80;90" dur="16s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+  
+    <rect x="6" y="8" width="1188" height="70" rx="20" fill="url(#shskillssvgglass)"/>
+    <rect x="6.75" y="8.75" width="1186.5" height="68.5" rx="20" fill="none" stroke="url(#shskillssvgedge)" stroke-width="1.5"/>
+    <rect x="22" y="9" width="1156" height="1" fill="#ffffff" opacity="0.35"/>
+  <text x="40" y="54" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="28" font-weight="700" fill="#f8fafc">🛠️  <tspan fill="url(#shskillssvgtext)">Tech stack</tspan></text>
+  <text x="1160" y="52" text-anchor="end" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" fill="#94a3b8">what I build with</text>
+</svg>
