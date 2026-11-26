@@ -48,7 +48,7 @@
   <text x="110" y="135" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="22" fill="#cbd5e1">Hi there, I'm</text>
   <text x="108" y="200" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="url(#htext)">Avinash Singh</text>
   <text x="110" y="244" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#f1f5f9">Software Engineer <tspan fill="#94a3b8" font-weight="400">@</tspan> Ethara AI</text>
-  <text x="110" y="278" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">AI evaluation pipelines · Full-stack web apps · Data Structures &amp; Algorithms</text>
+  <text x="110" y="278" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="17" fill="#cbd5e1">LLM evaluation · Prompt engineering · Full-stack web apps · DSA</text>
   <g transform="translate(110,298)">
       <rect width="160" height="27" rx="13.5" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.45"/>
       <text x="80" y="18.18" text-anchor="middle" font-family="'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#ffffff" fill-opacity="0.95">📍 Gurugram, India</text>
@@ -69,8 +69,8 @@
   <g font-family="'Cascadia Code', 'SF Mono', Consolas, Menlo, monospace" font-size="14">
     <text x="822" y="150" fill="#94a3b8">const <tspan fill="#c4b5fd">avinash</tspan> = {</text>
     <text x="840" y="174" fill="#93c5fd">role<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"SWE"</tspan>,</text>
-    <text x="840" y="198" fill="#93c5fd">stack<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"JS · Py · C++"</tspan>,</text>
-    <text x="840" y="222" fill="#93c5fd">focus<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"AI evals, QA"</tspan>,</text>
+    <text x="840" y="198" fill="#93c5fd">focus<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"LLM evals, QA"</tspan>,</text>
+    <text x="840" y="222" fill="#93c5fd">tools<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"Claude, Cursor"</tspan>,</text>
     <text x="840" y="246" fill="#93c5fd">openTo<tspan fill="#94a3b8">:</tspan> <tspan fill="#86efac">"collabs"</tspan></text>
     <text x="822" y="270" fill="#94a3b8">}<tspan fill="#f9a8d4">▌<animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/></tspan></text>
   </g>

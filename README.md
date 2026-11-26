@@ -13,18 +13,19 @@
 
 <img src="assets/h-about.svg" alt="About me" width="100%"/>
 
-I'm a **Software Engineer at Ethara AI**, where I build **multimodal AI evaluation pipelines**: benchmark datasets, validation frameworks and automated tests that show how well ML models really perform. Before that I did freelance **QA** at InstaWork.
+I'm a **Software Engineer at Ethara AI**, where I work on **LLM evaluation** and **multimodal AI evaluation pipelines**, and I've led a pod of engineers and evaluators. Every day I benchmark outputs from **Claude, ChatGPT, Gemini, OpenAI Codex and Cursor** using **prompt engineering**, rubric-based grading and side-by-side comparisons, and I build the datasets and automated tests behind them. Before that I did freelance **QA** at InstaWork.
 
 I also build **full-stack web apps**, mainly with **Node.js, Express, MongoDB, Python and Flask**. I enjoy **Data Structures & Algorithms**, and I'm a **LeetCode Knight (top 3.69%)**.
 
-- 🔭 Currently working on **AI model evaluation & quality assurance** at Ethara AI
-- 🌱 Exploring **LLM benchmarking**, testing automation and scalable backends
+- 🔭 Currently working on **LLM evaluation, prompt engineering & QA** at Ethara AI
+- 👥 Led a **pod** of engineers and evaluators: task allocation, reviews and delivery
+- 🌱 Exploring **AI coding agents**, testing automation and scalable backends
 - 🎓 **B.Tech in Computer Science**, Pranveer Singh Institute of Technology, Kanpur (2022–2026, CGPA 8.1)
 - 🤝 Open to collaborating on impactful open-source and full-stack projects
 
 <img src="assets/h-experience.svg" alt="Experience" width="100%"/>
 
-<img src="assets/experience.svg" alt="Software Engineer at Ethara AI (May 2026 – Present); QA Intern at InstaWork (Feb – Apr 2026)" width="100%"/>
+<img src="assets/experience.svg" alt="Software Engineer at Ethara AI (May 2026 – Present), Pod Lead and LLM evaluation; QA Intern at InstaWork (Feb – Apr 2026)" width="100%"/>
 
 <img src="assets/h-projects.svg" alt="Featured projects" width="100%"/>
 
@@ -66,8 +67,9 @@ I also build **full-stack web apps**, mainly with **Node.js, Express, MongoDB, P
 </p>
 
 <p align="center">
-  <b>AI / ML & Testing:</b> Machine Learning · Model Evaluation · Benchmark Datasets · Automated &amp; Manual Testing · QA · Bug Reporting<br/>
-  <b>Core:</b> Data Structures &amp; Algorithms · OOP · REST APIs
+  <b>AI / LLM:</b> Prompt Engineering · LLM Evaluation &amp; Benchmarking · Claude · ChatGPT · Gemini · OpenAI Codex · Cursor<br/>
+  <b>ML & Testing:</b> Machine Learning · Model Evaluation · Automated &amp; Manual Testing · QA · Bug Reporting<br/>
+  <b>Core:</b> Data Structures &amp; Algorithms · OOP · REST APIs · Team Leadership
 </p>
 
 <img src="assets/h-achievements.svg" alt="Achievements and certifications" width="100%"/>
@@ -88,7 +90,7 @@ I also build **full-stack web apps**, mainly with **Node.js, Express, MongoDB, P
 <img src="assets/h-connect.svg" alt="Let's connect" width="100%"/>
 
 <p align="center">
-  I'm always up for a chat about <b>AI evaluation</b>, <b>full-stack development</b> or <b>DSA</b>.<br/>
+  I'm always up for a chat about <b>LLM evaluation</b>, <b>full-stack development</b> or <b>DSA</b>.<br/>
   The quickest way to reach me is <a href="https://www.linkedin.com/in/avinash-singh-6b2a362a5">LinkedIn</a> or <a href="mailto:singhavinash7860@gmail.com">email</a>.
 </p>
 
